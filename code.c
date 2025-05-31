@@ -8,6 +8,6 @@ int main(){
     km=miles*1.6;
     h=h+ m/60 + s/3600;
     avgS=km/h;
-    printf("The avg speed is: %.2f km/h\n", avgS);
+    printf("The avg speed is : %.2f km/h\n", avgS);
     return 0;
 }
